@@ -26,7 +26,7 @@ public class CommandesMicroserviceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CommandesMicroserviceApplication.class, args);
-	}
+	}/*
 	// @LoadBalanced
     @Bean
     public RestTemplate restTemplate() {
@@ -51,5 +51,5 @@ public class CommandesMicroserviceApplication {
 			});
 		};
 }
-
+*/
 }
